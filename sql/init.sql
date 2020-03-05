@@ -1,6 +1,6 @@
-CREATE DATABASE renault;
+CREATE DATABASE cars;
 
-USE renault;
+USE cars;
 
 CREATE TABLE cars(
     id    INTEGER PRIMARY KEY AUTO_INCREMENT,
